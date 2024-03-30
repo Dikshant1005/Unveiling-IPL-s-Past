@@ -13,7 +13,7 @@ Excited to share the results of my recent project as part of the Codebasics resu
 1. **Data Collection:** Gathered mathes and players data of the last 3 IPL seasons.
 2. **Data Analysis:** This section comprises exploratory data analysis (EDA), statistical modeling techniques applied to historical IPL data.
 3. **Team Performance Analysis::** Analyzes teams based on matches played, matches won, run rate, economy rate, and strike rate.
-4. **Forecasting for IPL 2024::** Leveraging our analysis, we provide forecasts and predictions for the upcoming IPL 2024 season, including potential standout players, team strategies, and the ultimate players 11 based on last 3 season's da
+4. **Forecasting for IPL 2024::** Leveraging our analysis, we provide forecasts and predictions for the upcoming IPL 2024 season, including potential standout players, team strategies, and the ultimate players 11 based on last 3 season's data
 
 ## Tools Used
 
