@@ -24,4 +24,4 @@ Excited to share the results of my recent project as part of the Codebasics resu
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](http://surl.li/sbsjh)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFmNWQwMzktZjMxNC00MmUxLTg5MjMtZTNhNTAyZTRmNDgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
